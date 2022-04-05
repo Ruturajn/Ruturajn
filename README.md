@@ -8,12 +8,6 @@
 
 - <img height=18 width=18 src="https://user-images.githubusercontent.com/56625259/161728880-bf9e37e3-579e-4bed-ae88-6f856bab820a.svg" align="center"> Reach me @ nanotiruturaj@gmail.com
 
-<br />
-
-<div align="center">
-
-![Website](https://img.shields.io/website?color=%232962FF&label=Blog&logo=Hashnode&up_message=https%3A%2F%2Fruturajn.hashnode.dev%2F&url=https%3A%2F%2Fruturajn.hashnode.dev%2F)
-![Website](https://img.shields.io/website?color=%23C4D600&down_color=blue&down_message=ruturaj-nanoti&label=LinkedIn&logo=LinkedIn&up_color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fruturaj-nanoti)
 
 <!---
 Ruturajn/Ruturajn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
