@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ruturajn, a college student, and a Linux Enthusiast.
+- 👋 Hi, I’m @Ruturajn, a college student, a Linux Enthusiast, and the creator of [RnOS](https://gitlab.com/ruturajn).
 
 - <img height=20 width=20 src="https://user-images.githubusercontent.com/56625259/161729509-cbccca3e-7faa-41d0-afb6-2c48044d76ff.png" align="center"> I’m interested in Embedded Systems Development.
 
